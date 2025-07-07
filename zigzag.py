@@ -1,3 +1,8 @@
+'''
+# Automate the Boring Stuff with Python: ZigZag
+
+'''
+
 import time
 import sys
 
