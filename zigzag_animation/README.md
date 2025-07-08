@@ -3,7 +3,7 @@
 ## Description
 This is a simple Python script that creates a terminal based zig zag animation, using a bouncing row of asterisks ('********"). 
 The stars shift, back and forth simulating a horizonal "bounce" effect using indentation.
-The animation will continue to run until a user interrupts using the 'Ctrl+ C' command
+The animation will continue to run until a user interrupts using the `Ctrl+ C` command
 
 ## How It Works
 The script uses an 'indent' counter to control how many spaces are printed before each line of asterisks. It is controlled through the use of 'if' conditional statements when the indentations reach a max, and min.
