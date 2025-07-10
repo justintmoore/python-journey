@@ -1,7 +1,7 @@
 # Automate The Boring Stuff By Al Sweigart
 
 ## Description  
-This python script takes a dictionary, and loops through using the `items()` method, pulling out the key and value. Once the key:value
+This python program takes a dictionary, and loops through using the `items()` method, pulling out the key and value. Once the key:value
 is taken out, I print to the screen
 
 ## Comments
